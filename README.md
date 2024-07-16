@@ -1,5 +1,8 @@
 # IMDb and Wikipedia Scraping
 
+![QK76lEe](https://github.com/user-attachments/assets/8e6b90c6-58c1-4eb7-bca6-3f7eb2100efb)
+
+
 This repository contains Python scripts for web scraping IMDb's top movies list and extracting data from Wikipedia's list of U.S. states and territories.
 
 ## Prerequisites
